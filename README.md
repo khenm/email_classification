@@ -15,5 +15,5 @@ If you run this file in Google Colab or Jupiter Notebook, please follow the inst
 
 ## Usage
 If you want to briefly grasp the program, run `.ipynb` file in the folder. 
-After that, for other test samples, you can change the path to the image to achieve different results.
+After that, for other test samples, you can change the test samples to achieve different results.
 
